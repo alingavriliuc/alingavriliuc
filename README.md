@@ -8,12 +8,7 @@
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=alingavriliuc&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alingavriliuc&theme=dark&hide_border=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/ username=alingavriliuc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
-
-![](https://github-readme-stats.vercel.app/api?username=alingavriliuc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alingavriliuc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/ username=alingavriliuc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alingavriliuc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
